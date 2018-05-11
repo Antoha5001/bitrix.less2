@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.swp
+*.swo
+upload/*
+bitrix/*
+bitrix/js/*
+!/bitrix/php_interface/
+!/bitrix/templates/
+!/user/*
+/bitrix/templates/desktop_app
+/bitrix/templates/mail_user
+/bitrix/templates/learning
+/bitrix/templates/furniture_pale-blue

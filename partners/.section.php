@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Партнёрам";
+$arDirProperties = array(
+
+);
+?>
